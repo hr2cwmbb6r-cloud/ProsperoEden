@@ -22,6 +22,22 @@ Last updated: **September 25, 2026**.
 | Super Mario 3D World | B — Good; plays well (owner-confirmed) | Gameplay FPS not measured; 35–53 previously at animated title |
 | Animal Crossing: New Horizons | C — Runs with major issues (owner-reported) | 15 (owner-reported) |
 | The Legend of Zelda: Breath of the Wild | D — Not playable (owner-reported) | 30 at menu, 8–10 average in gameplay (owner-reported) |
+| Princess Peach: Showtime! | D — Not playable (owner-reported) | 10 at menu, 1-2 average in gameplay, game runs very slowly (owner-reported) |
+| Pokémon Snap | D — Not playable (owner-reported) | Game crash (owner-reported) |
+| Super Mario Party Jamboree | D — Not playable (owner-reported) | 1-2 at menu, 1-2 average in gameplay then crash (owner-reported) |
+| Super Mario Bros. Wonder | D — Not playable (owner-reported) | Game crash (owner-reported) |
+| Pokemon Brilliant Diamond | D — Not playable (owner-reported) | Game crash (owner-reported) |
+| Luigi’s Mansion 3 | D — Not playable (owner-reported) | Game crash (owner-reported) |
+| Super Mario 3D All-Stars | D — Not playable (owner-reported) | Game crash (owner-reported) |
+| Tomodachi Life: Living the Dream | D — Not playable (owner-reported) | 10 at menu, 1-2 average in gameplay (owner-reported) |
+| Super Mario Odyssey | Intro/menu only (owner-reported) | Game crash (owner-reported) |
+| Super Mario Maker 2 | B — Good / Playable | 30 (owner-reported) |
+| Mario Party Superstars | D — Not playable (owner-reported) | Severe slowdowns and some textures failing to load. (owner-reported) |
+| Pokemon FireRed & LeafGreen | Limited historical result (owner-reported) | The game is not recognized by Prospero Eden, failed to launch (owner-reported) |
+
+
+
+
 
 ## How to read the grades
 
@@ -49,6 +65,19 @@ The recent development checks used **PS5 firmware 6.02 and OpenGL**. These resul
 - **Summerhouse:** the owner now reports B — Playable and 25 FPS, superseding the earlier limited startup/display observation. Test scene, mode, and duration were not supplied; this is not a measured average or guaranteed minimum.
 - **Animal Crossing: New Horizons:** the owner reported that the title screen and intro menus ran smoothly without issues, but once loading into island gameplay, heavy performance drops were observed with framerates settling around 15 FPS, resulting in an unstable and sluggish experience.
 - **The Legend of Zelda: Breath of the Wild:** the owner reports grade D. Menu ran at ~30 FPS in both docked and handheld mode. In gameplay, FPS averaged 8–10 in both modes and assets failed to load fully — the screen appeared mostly dark with some blue elements visible — making the game unplayable.
+- **Princess Peach: Showtime!:** the owner reported that the menu ran at around 10 FPS, while gameplay averaged 1–2 FPS and the game ran very slowly, making the title unplayable.
+- **Pokémon Snap:** the owner reported that the game crashed, resulting in an unplayable experience.
+- **Super Mario Party Jamboree:** the owner reported that the menu and gameplay both ran at around 1–2 FPS, after which the game crashed, making the title unplayable.
+- **Super Mario Bros. Wonder:** the owner reported that the game crashed, resulting in an unplayable experience.
+- **Pokémon Brilliant Diamond:** the owner reported that the game crashed, resulting in an unplayable experience.
+- **Luigi’s Mansion 3:** the owner reported that the game crashed, resulting in an unplayable experience.
+- **Super Mario 3D All-Stars:** the owner reported that the game crashed, resulting in an unplayable experience.
+- **Tomodachi Life: Living the Dream:** the owner reported that the menu ran at around 10 FPS, while gameplay averaged 1–2 FPS, making the game unplayable.
+- **Super Mario Odyssey:** the owner reported reaching only the intro/menu before the game crashed, preventing further gameplay testing.
+- **Super Mario Maker 2:** the owner reported that the game was playable at 30 FPS, pretty smooth.
+- **Mario Party Superstars:** the owner reported severe slowdowns, with some textures failing to load, resulting in an unplayable experience.
+- **Pokémon FireRed & LeafGreen:** the owner reported that the game was not recognized by Prospero Eden and failed to launch, resulting in a limited historical result with no gameplay testing.
+
 
 Mode was not recorded in this summary for titles other than Mario Kart; do not infer handheld or docked mode from their FPS. Repeated switching between games can still expose stability problems across the app.
 
